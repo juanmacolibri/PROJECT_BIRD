@@ -48,7 +48,7 @@ public class Timer_Level_Script: MonoBehaviour
 
         //Declaracion del fechero a leer + ubicacion del fichero
         fileName = "BEATS_TIME_TABLE.txt";
-        myFilePath = Application.dataPath + "/" + "Scripts" + "/" + fileName;
+        myFilePath = Application.dataPath + "/" + "Scripts" + "/" + "Minigame_1" + "/" + fileName;
         ReadFromTheFile(); //leemos el fichero
 
         TimerReset(); //Seteamos el tiempo a 0 reiniciando el reloj

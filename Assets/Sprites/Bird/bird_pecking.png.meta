@@ -11,21 +11,6 @@ TextureImporter:
   - first:
       213: 497601266907565391
     second: bird_pecking_2
-  - first:
-      213: -7710602601459528905
-    second: bird_pecking_3
-  - first:
-      213: 1645152079188778934
-    second: bird_pecking_4
-  - first:
-      213: -6098760826587108378
-    second: bird_pecking_0
-  - first:
-      213: -8443309955022759766
-    second: bird_pecking_1
-  - first:
-      213: 6093297929096094040
-    second: bird_pecking_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -56,7 +41,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -87,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -99,10 +84,10 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -111,10 +96,10 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -123,10 +108,10 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -135,10 +120,10 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -152,19 +137,19 @@ TextureImporter:
       name: bird_pecking_0
       rect:
         serializedVersion: 2
-        x: 69
-        y: 140
-        width: 486
-        height: 478
+        x: 21
+        y: 22
+        width: 419
+        height: 378
       alignment: 9
-      pivot: {x: 0.30043137, y: 0.520952}
+      pivot: {x: 0.26490748, y: 0.50799364}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6eb25314759dc5ba0800000000000000
-      internalID: -6098760826587108378
+      spriteID: c9e609c7410142b70800000000000000
+      internalID: 8873234846001950364
       vertices: []
       indices: 
       edges: []
@@ -173,19 +158,19 @@ TextureImporter:
       name: bird_pecking_1
       rect:
         serializedVersion: 2
-        x: 649
-        y: 196
-        width: 522
-        height: 431
+        x: 491
+        y: 38
+        width: 400
+        height: 347
       alignment: 9
-      pivot: {x: 0.41956407, y: 0.44782966}
+      pivot: {x: 0.4174771, y: 0.42369097}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa8595a945653da80800000000000000
-      internalID: -8443309955022759766
+      spriteID: 8f297ab6a127fb1a0800000000000000
+      internalID: -6791584255250558216
       vertices: []
       indices: 
       edges: []
@@ -194,19 +179,19 @@ TextureImporter:
       name: bird_pecking_2
       rect:
         serializedVersion: 2
-        x: 1279
-        y: 133
-        width: 332
-        height: 482
+        x: 978
+        y: 22
+        width: 256
+        height: 387
       alignment: 9
-      pivot: {x: 0.18379046, y: 0.52907187}
+      pivot: {x: 0.18362617, y: 0.51168907}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 851656ece2ebf8450800000000000000
-      internalID: 6093297929096094040
+      spriteID: f4d4fc147b5d7e600800000000000000
+      internalID: 497601266907565391
       vertices: []
       indices: 
       edges: []

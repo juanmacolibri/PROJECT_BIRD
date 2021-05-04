@@ -558,7 +558,7 @@ MonoBehaviour:
   playerLastBeatSeconds100: 0
   playerBeatInfoInSeconds100: 0
   playerBeatMargin: 0
-  MusicAudioSource: {fileID: 0}
+  MusicAudioSource: {fileID: 1027981698}
 --- !u!82 &1027981698
 AudioSource:
   m_ObjectHideFlags: 0
@@ -900,7 +900,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.792, y: 5.4}
+  m_Size: {x: 7.68, y: 4.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -914,8 +914,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1627555618}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.95, y: -1.048, z: 90}
-  m_LocalScale: {x: 1.75, y: 1.75, z: 0}
+  m_LocalPosition: {x: 0.935, y: -1.064579, z: 90}
+  m_LocalScale: {x: 2.3, y: 2.3, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
